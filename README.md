@@ -64,6 +64,26 @@ Remote bug tracking and logging tool, package for Unity
 
 Unity extension to add scene reference classes which makes it easier to work with scenes
 
+# PHP
+
+## [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth)
+
+A two factor authenticator for PHP projects
+
+## [mpdf/mpdf](https://github.com/mpdf/mpdf)
+
+A very popular pdf generation package for PHP
+
+## [mpdf/qrcode](https://github.com/mpdf/qrcode)
+
+A QR code generator for PHP projects
+
+# NPM/Node
+
+## [mrdoob/three.js](https://github.com/mrdoob/three.js)
+
+A very popular 3d plugin for node. Allows you to render 3d objects on web pages.
+
 # Other
 
 ## [appwrite/appwrite](https://github.com/appwrite/appwrite)
