@@ -24,6 +24,10 @@ Reactive properties library for Unity, made by the same person behind UniRx, use
 
 Better async task package for Unity, more performant and unallocated tasks
 
+## [Cysharp/ZLinq](https://github.com/Cysharp/ZLinq)
+
+Zero allocation Linq library for Unity and other .Net projects (Requires installation through NuGetForUnity)
+
 ## [Mathijs-Bakker/Extenject](https://github.com/Mathijs-Bakker/Extenject)
 
 Dependancy injection framework for Unity
