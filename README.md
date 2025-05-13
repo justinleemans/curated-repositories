@@ -28,9 +28,13 @@ Better async task package for Unity, more performant and unallocated tasks
 
 Zero allocation Linq library for Unity and other .Net projects (Requires installation through NuGetForUnity)
 
+## [hadashiA/VContainer](https://github.com/hadashiA/VContainer)
+
+Extra fast dependancy injection library for Unity
+
 ## [Mathijs-Bakker/Extenject](https://github.com/Mathijs-Bakker/Extenject)
 
-Dependancy injection framework for Unity
+Dependancy injection framework for Unity (Deprecated)
 
 ## [Jeffan207/usyrup](https://github.com/Jeffan207/usyrup)
 
